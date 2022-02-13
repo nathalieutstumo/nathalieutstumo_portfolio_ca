@@ -93,11 +93,11 @@ export default function Home() {
             </div>
            
               <div className="about_section">
-              <p className="about-content">
+              <div className="about-content">
               <div className="about_name">
-              I'm
+              I´m
                   <h2 className="my_name">Nathalie</h2></div> 
-                <div className="paragraph"> I'm a 21 year old front-end student who loves designing and finding creative ways to problem solve.</div>
+                <div className="paragraph"> I´m a 21 year old front-end student who loves designing and finding creative ways to problem solve.</div>
               
               <div className="paragraph"> My interest in web development started when I was in primary school. I was struggeling with math and my cousin thought it would help with a more visual way and therefore tought me using Scratch.</div>
              
@@ -107,7 +107,7 @@ export default function Home() {
              
               <div className="paragraph"> After that I simply just applied to Front-End Development at Noroff School of Technology, and the rest is history.</div>
              
-              </p>
+              </div>
               </div>
             </About>
 

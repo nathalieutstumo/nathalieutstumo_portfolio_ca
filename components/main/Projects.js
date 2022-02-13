@@ -14,7 +14,7 @@ const Projects = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -25px;
+    margin-top: 45px;
 }
 
 

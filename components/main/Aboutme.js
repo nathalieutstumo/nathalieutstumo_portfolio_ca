@@ -12,7 +12,7 @@ const About = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    
+     
     margin-left: 550px;
     position: sticky;
     z-index: 99;
@@ -37,7 +37,7 @@ const About = styled.div`
 font-family: trochut;
 font-weight: 700;
 font-size: 81px;
-margin-top: -95px
+margin-top: -45px
 }
 
 .my_name{
