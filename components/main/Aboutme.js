@@ -38,6 +38,7 @@ font-family: trochut;
 font-weight: 700;
 font-size: 81px;
 margin-top: -45px
+color: #404040;
 }
 
 .my_name{
@@ -52,6 +53,7 @@ color: #404040;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #404040
     
 }
 
@@ -69,6 +71,40 @@ color: #404040;
 .paragraph {
    margin-bottom: 25px;
 
+}
+
+@media (max-width: 767px){
+    .about_h2 {
+        font-family: Trochut;
+        font-size: 91px;
+        color: #F5EDE1;
+    }
+
+    .about_name {
+        font-family: trochut;
+        font-weight: 700;
+        font-size: 111px;
+        margin-top: -65px;
+        color: #404040;
+        }
+
+        .my_name{
+            font-family: trochut;
+            font-weight: 700;
+            font-size: 111px;
+            margin-bottom: 45px;
+            color: #404040;
+            }
+
+            .about-content{
+                text-align: left;
+                width: 752px;
+                font-family: roboto;
+                font-size: 36px;
+                line-height: 50px;
+                margin-top: -45px
+                color: #404040;
+            }
 }
 
 `;

@@ -63,25 +63,14 @@ p {
 // }
 // `};
 
-${media.lessThan('small')`
-html {
+// ${media.lessThan('small')`
+// html {
 
 
 
   
-    #contact{
-        width: max-content;
-        height: 366px;
-        display: flex;
-        justify-content: center;
-        background: #B7BAA3;
-        padding-left: 50px;
-        flex: 0 0 auto;
-        margin-top: 100px;
-        margin-bottom: 200px;
-    }
    
-}
+// }
 `};
 
 `;

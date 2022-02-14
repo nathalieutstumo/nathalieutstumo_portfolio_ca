@@ -115,11 +115,13 @@ h1{
         justify-content: center;
         align-items: center;
         text-align: center;
+        font-size: 7rem;
+        width: 75%;
       
     }
 
     h1{
-   margin-left: 325px;
+   margin-left: 175px;
    
    
     }
@@ -128,8 +130,20 @@ h1{
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: -95px;
+        margin-top: -145px;
     }
+
+
+.hero-text-bold{
+    font-size: 8rem;
+    font-family: Roboto;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+  
+}
 }
 
 

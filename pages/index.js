@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faCode, faHighlighter } from '@fortawesome/free-solid-svg-icons';
@@ -51,7 +52,7 @@ export default function Home() {
           <a href="#home"><Image className="logo" src="/img/logo.png" width="48px" height="59px" alt=""/> </a>
               <div className="nav-container">
                 <nav className="nav-bar">
-                <FontAwesomeIcon icon="fa-solid fa-bars" className="menu" />
+              <FontAwesomeIcon icon="fa-solid fa-bars" className="menu" />
                   <ul>
                     <li>
                       <a href="#about">About</a>
@@ -190,10 +191,10 @@ sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur a
           </div>
 
           <div className="all-contact_icons">
-  <div className="contact-icon"><FontAwesomeIcon icon="fa-brands fa-instagram" className="instagram" /> </div>
-  <div className="contact-icon"><div className="mail">@</div></div>
-  <div className="contact-icon"><FontAwesomeIcon icon="fa-brands fa-github" className="github"/> </div>
-  
+  <div className="contact-icon"><a href="https://www.instagram.com/nathalieutstumo/"><FontAwesomeIcon icon="fa-brands fa-instagram" className="instagram" /></a><p className="user-ig">nathalie.utstumo</p> </div>
+  <div className="contact-icon"><FontAwesomeIcon icon="fa-solid fa-envelope" className="email" /><p className="user-mail">nathalie.utstumo@gmail.com</p></div>
+  <div className="contact-icon"><a href="https://github.com/nathalieutstumo"><FontAwesomeIcon icon="fa-brands fa-github" className="github"/></a> <p className="user-git">nathalieutstumo</p></div>
+ 
 </div>
         
         </Footer>

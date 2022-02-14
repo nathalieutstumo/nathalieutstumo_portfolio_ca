@@ -59,19 +59,25 @@ nav li a {
 }
 
 @media (max-width: 767px){
-    .menu {
-        font-size: 4rem;
-        color: #596E45;
-        margin-left: 900px;
-        position: relative;
-        margin-top: 10px;  
-        display: block;
-    }
+
 
     nav ul {
-        display: none;
+        // display: none;
+        text-align: center;
+        width: 700px;
+        justify-content: center;
     }
+
+    nav li {
+        display: inline-flex;
+        padding: 20px;  
+    }
+    nav li a {
+        font-size: 2.2rem;
+        font-family: Roboto;
+        color: #596E45;
     
+    }
 }
 
 

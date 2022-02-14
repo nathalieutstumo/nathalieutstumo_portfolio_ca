@@ -28,13 +28,15 @@ margin-bottom: 200px;
 
 
 .all-contact_icons{
-    display: flex;
-    flex-wrap: wrap;
-    width: 1000px;
+    // display: flex;
+    // flex-wrap: wrap;
+    // width: 100vw;
     align-items: center;
-    justify-content: space-evenly;
-    margin-left: -50px;
-    margin-top: -50px;
+    // justify-content: space-between;
+    // margin-left: 100px;
+    // margin-top: 0px;
+    // padding: 0px;
+    padding-left: 150px;
     
 }
 
@@ -43,14 +45,13 @@ margin-bottom: 200px;
     height: 125px;
     border-radius: 100px;
     background: #596E45;
-    margin-top: 100px;
+    margin-top: 150px;
     font-size: 4.5rem;
     color: #F5EDE1;
     display: inline-block;
-    margin-right: 25px;
+    margin-right: 150px;
     text-align: center;
-   
-   
+  
     
 }
 
@@ -58,18 +59,60 @@ margin-bottom: 200px;
    margin-top: 25px;
 }
 
-.mail {
-    margin-top: 15px;
-    font-size: 4.5rem;
-    color: #F5EDE1;
-    font-family: roboto;
+.email {
+    margin-top: 25px;
+    
 }
 
 .github {
     margin-top: 25px;
  }
 
+ .contact-icon p{
+     font-size: 1.5rem;
+     color: #404040;
+     font-family: roboto;
+     font-weight: 400;
+     margin-left: -60px;
+     
+     
+ }
 
+ .contact-icon .user-git{
+    margin-left: -25px;
+ }
+
+ .contact-icon .user-ig{
+    margin-left: -30px;
+ }
+
+ .contact-icon .user-mail{
+     margin-left: -85px;
+ }
+
+ @media (max-width: 767px){
+    width: 1200px;
+        height: 566px;
+        display: flex;
+        justify-content: center;
+        background: #B7BAA3;
+        padding-left: 50px;
+        flex: 0 0 auto;
+        margin-top: 100px;
+        margin-bottom: 200px;
+        
+ }
+
+ .all-contact_icons{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: -50px;
+    margin-top: -150px;
+    
+}
 
 `;
 
