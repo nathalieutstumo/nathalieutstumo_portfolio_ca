@@ -62,7 +62,7 @@ nav li a {
     .menu {
         font-size: 4rem;
         color: #596E45;
-        margin-left: 850px;
+        margin-left: 900px;
         position: relative;
         margin-top: 10px;  
         display: block;
