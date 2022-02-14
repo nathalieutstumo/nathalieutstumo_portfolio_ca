@@ -63,8 +63,8 @@ nav li a {
         font-size: 4rem;
         color: #596E45;
         margin-left: 850px;
-        position: absolute;
-        margin-top: -20px;  
+        position: relative;
+        margin-top: 10px;  
         display: block;
     }
 
