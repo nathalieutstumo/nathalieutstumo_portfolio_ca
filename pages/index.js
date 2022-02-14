@@ -127,19 +127,19 @@ export default function Home() {
                 <h3 className="project-title">Aloe Skin</h3>
                 <p className="projects-info_p">Lorem ipsum dolor 
 sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-<div className="project-btn"><a href="#">See project</a></div>
+<div className="project-btn"><a href="https://jolly-hopper-98df2d.netlify.app/">See project</a></div>
                 </div>
                 <div className="projects-info_container">
                 <h3 className="project-title">Portfolio 1</h3>
                 <p className="projects-info_p">Lorem ipsum dolor 
 sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                <div className="project-btn"><a href="#">See project</a></div>
+                <div className="project-btn"><a href="https://keen-mcnulty-c6fb03.netlify.app/">See project</a></div>
                 </div>
                 <div className="projects-info_container">
                 <h3 className="project-title">The art of traveling</h3>
                 <p className="projects-info_p">Lorem ipsum dolor 
 sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-<div className="project-btn"><a href="#">See project</a></div>
+<div className="project-btn"><a href="https://objective-clarke-62153c.netlify.app/">See project</a></div>
                 </div>
             
              </div>

@@ -112,7 +112,16 @@ margin-bottom: 200px;
     margin-left: -50px;
     margin-top: -150px;
     
-}
+    }
+
+    .footer-title{
+        margin-top: -50px;
+        margin-left: -50px;
+        width: 400px;
+        height: 300px;
+        position: absolute;
+    }
+    
 
 `;
 
