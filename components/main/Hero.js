@@ -104,7 +104,33 @@ h1{
     margin-top: -225px;
 }
 
+@media (max-width: 767px) {
 
+    .hero-img-container{
+    display: none;
+    }
+
+    .hero-text-light {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      
+    }
+
+    h1{
+   margin-left: 325px;
+   
+   
+    }
+
+    .hero-bold-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -95px;
+    }
+}
 
 
 

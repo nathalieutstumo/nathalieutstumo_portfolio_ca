@@ -5,6 +5,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { fab } from '@fortawesome/free-brands-svg-icons';
 
 library.add(fab);
+import { fas } from '@fortawesome/free-solid-svg-icons';
+
+library.add(fas);
 
 import Body from "../components/body/Body"
 import Header from "../components/header/Header"
@@ -48,6 +51,7 @@ export default function Home() {
           <a href="#home"><Image className="logo" src="/img/logo.png" width="48px" height="59px" alt=""/> </a>
               <div className="nav-container">
                 <nav className="nav-bar">
+                <FontAwesomeIcon icon="fa-solid fa-bars" className="menu" />
                   <ul>
                     <li>
                       <a href="#about">About</a>

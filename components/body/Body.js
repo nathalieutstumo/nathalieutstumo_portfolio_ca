@@ -8,6 +8,8 @@ flex-direction: column;
 background: #F5EDE1;
 padding: 0;
 margin: 0;
+
+
 `;
 
 export default Body

@@ -44,28 +44,43 @@ p {
 
 
 
-${media.lessThan('huge')`
-html {
-    background: #F5EDE1;
-}
-`};
+// ${media.lessThan('huge')`
+// html {
+//     background: #F5EDE1;
+// }
+// `};
 
-${media.lessThan('large')`
-html {
-    background: red;
-}
-`};
+// ${media.lessThan('large')`
+// html {
+//     background: red;
+// }
+// `};
 
 
-${media.lessThan('medium')`
-html {
-    background: blue;
-}
-`};
+// ${media.lessThan('medium')`
+// html {
+//     background: blue;
+// }
+// `};
 
 ${media.lessThan('small')`
 html {
-    background: pink;
+
+
+
+  
+    #contact{
+        width: max-content;
+        height: 366px;
+        display: flex;
+        justify-content: center;
+        background: #B7BAA3;
+        padding-left: 50px;
+        flex: 0 0 auto;
+        margin-top: 100px;
+        margin-bottom: 200px;
+    }
+   
 }
 `};
 

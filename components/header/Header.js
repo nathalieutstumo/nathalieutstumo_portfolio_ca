@@ -33,7 +33,7 @@ nav li {
 nav li a {
     font-size: 1.2rem;
     font-family: Roboto;
-    color: #596E45
+    color: #596E45;
 
 }
 
@@ -46,7 +46,33 @@ nav li a {
     
 }
 
+.menu {
+    font-size: 3rem;
+    color: #596E45;
+    margin-right: -20px;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    justify-content: center;  
+    margin-top: 35px;  
+    display: none; 
+}
 
+@media (max-width: 767px){
+    .menu {
+        font-size: 4rem;
+        color: #596E45;
+        margin-left: 850px;
+        position: absolute;
+        margin-top: -20px;  
+        display: block;
+    }
+
+    nav ul {
+        display: none;
+    }
+    
+}
 
 
 
