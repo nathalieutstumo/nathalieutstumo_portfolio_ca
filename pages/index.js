@@ -120,26 +120,26 @@ export default function Home() {
            <h2 className="projects_h2">My Projects</h2>
            <div className="projects-inline">
            <div className="projects-img">
-           <Image className="projects_img" src="/img/projects.png"height="1039px" width="374.65px"  alt=""/>
+           <Image className="projects_img" src="/img/newprojects.png"height="1039px" width="374.65px"  alt=""/>
              </div> 
            <div className="projects-info">
                 <div className="projects-info_container">
                 <h3 className="project-title">Aloe Skin</h3>
                 <p className="projects-info_p">Lorem ipsum dolor 
 sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-<div className="project-btn"><a href="https://jolly-hopper-98df2d.netlify.app/">See project</a></div>
+<div className="project-btn"><a href="https://github.com/nathalieutstumo/semester-project2-nathalieutstumo">See project</a></div>
                 </div>
                 <div className="projects-info_container">
-                <h3 className="project-title">Portfolio 1</h3>
+                <h3 className="project-title">Villa SULT</h3>
                 <p className="projects-info_p">Lorem ipsum dolor 
 sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                <div className="project-btn"><a href="https://keen-mcnulty-c6fb03.netlify.app/">See project</a></div>
+                <div className="project-btn"><a href="https://github.com/nathalieutstumo/project-exam-2_nathalieutstumo">See project</a></div>
                 </div>
                 <div className="projects-info_container">
-                <h3 className="project-title">The art of traveling</h3>
+                <h3 className="project-title">JS frameworks CA</h3>
                 <p className="projects-info_p">Lorem ipsum dolor 
 sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-<div className="project-btn"><a href="https://objective-clarke-62153c.netlify.app/">See project</a></div>
+<div className="project-btn"><a href="https://github.com/nathalieutstumo/ca-js-frameworks-nathalieutstumo">See project</a></div>
                 </div>
             
              </div>
