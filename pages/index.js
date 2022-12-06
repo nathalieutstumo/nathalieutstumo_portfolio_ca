@@ -102,7 +102,7 @@ export default function Home() {
               <div className="about_name">
               I´m
                   <h2 className="my_name">Nathalie</h2></div> 
-                <div className="paragraph"> I´m a 22 year old UX-Design student who loves designing and finding creative ways to problem solve. I have previously studies Front-End development.</div>
+                <div className="paragraph"> I´m a 22 year old UX-Design student who loves designing and finding creative ways to problem solve. I have previously studied Front-End development.</div>
               
               <div className="paragraph"> My interest in web development started when I was in primary school. I was struggeling with math and my cousin thought it would help with a more visual way and therefore tought me using Scratch.</div>
              
