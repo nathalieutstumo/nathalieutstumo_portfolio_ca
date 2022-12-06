@@ -102,7 +102,7 @@ export default function Home() {
               <div className="about_name">
               I´m
                   <h2 className="my_name">Nathalie</h2></div> 
-                <div className="paragraph"> I´m a 21 year old front-end student who loves designing and finding creative ways to problem solve.</div>
+                <div className="paragraph"> I´m a 22 year old UX-Design student who loves designing and finding creative ways to problem solve. I have previously studies Front-End development.</div>
               
               <div className="paragraph"> My interest in web development started when I was in primary school. I was struggeling with math and my cousin thought it would help with a more visual way and therefore tought me using Scratch.</div>
              
@@ -110,7 +110,7 @@ export default function Home() {
               
               <div className="paragraph"> Coding left my mind for several years and when I was done with high school I had no idea what I wanted to do. I was talking to a childhood friend about my future and he mentioned coding since he remembered that I enjoyed it when we were kids.</div>
              
-              <div className="paragraph"> After that I simply just applied to Front-End Development at Noroff School of Technology, and the rest is history.</div>
+              <div className="paragraph"> After that I simply just applied to Front-End Development at Noroff School of Technology. After finishing Front-End development I found that I enjoy the design process more and therefor decided to continue my studies at Noroff with UX-Design.</div>
              
               </div>
               </div>
