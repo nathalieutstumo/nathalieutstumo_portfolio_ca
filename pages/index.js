@@ -77,7 +77,7 @@ export default function Home() {
             <div className="hero_content">
               <div className="hero-inline">
                   <div className="hero-img-container">
-                    <Image className="hero-img" src="/img/gif.mp4"height="800px" width="1000px"  alt=""/>
+                    <Image className="hero-img" src="/img/intiri.png"height="400px" width="400px"  alt=""/>
                   </div>
                   <div className="hero-main-text">
                     <h1 className="hero-text-light">My mom said I spend too much time on the internet,</h1>
